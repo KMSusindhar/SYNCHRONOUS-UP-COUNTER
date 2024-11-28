@@ -68,9 +68,6 @@ end
 
 endmodule
 
-Developed by: SUSINDHAR K M
-
-RegisterNumber: 2122223040218
 
 */
 
