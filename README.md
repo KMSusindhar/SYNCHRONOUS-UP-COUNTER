@@ -59,12 +59,10 @@ always @ (posedge clk)
 begin
 
    if(rst)
-   
-     out<=0;
+    out<=0;
      
    else
-   
-     out <= out+1;
+   out <= out+1;
      
 end
 
