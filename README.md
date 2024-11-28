@@ -37,6 +37,10 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 4.Output the shifted bit from the last stage of the register.
 
 5.Repeat steps 2-4 for each bit you want to input and shift.
+**TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/dc1661c0-3ae9-4cd8-88e4-62c80cff4298)
+
 
 **PROGRAM**
 
@@ -61,14 +65,10 @@ RegisterNumber: 2122223040218
 
 ![Screenshot 2024-11-15 094628](https://github.com/user-attachments/assets/c8dceee0-c291-4fef-8aca-f5d117d693ac)
 
-
 **TIMING DIAGRAM FOR IP COUNTER**
 
 ![Screenshot 2024-11-15 095341](https://github.com/user-attachments/assets/c8ab6449-7489-4f38-b101-35542f50cce5)
 
-**TRUTH TABLE**
-
-![8baf648d-816e-49ac-88ad-e57b97c7b25c](https://github.com/user-attachments/assets/fa0c6709-3757-454f-b89c-20ea1c6305b5)
 
 **RESULTS**
 
