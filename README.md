@@ -1,5 +1,9 @@
 ### SYNCHRONOUS-UP-COUNTER
 
+Developed by: SUSINDHAR K M
+
+RegisterNumber: 2122223040218
+
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
@@ -45,20 +49,31 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **PROGRAM**
 
 module ex11(out,clk,rst);
+
 input clk,rst;
+
 output reg [3:0]out;
+
 always @ (posedge clk)
+
 begin
+
    if(rst)
+   
      out<=0;
-   else 
+     
+   else
+   
      out <= out+1;
+     
 end
+
 endmodule
 
 Developed by: SUSINDHAR K M
 
 RegisterNumber: 2122223040218
+
 */
 
 **RTL LOGIC UP COUNTER**
